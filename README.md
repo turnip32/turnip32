@@ -1,6 +1,6 @@
 # Hi!
 
-There's not much to say about me. Enjoy my code.
+There's not much to say about me. Enjoy.
 
 ![](https://komarev.com/ghpvc/?username=turnip32)
 
